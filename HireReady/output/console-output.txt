@@ -1,0 +1,35 @@
+-----------------------Candidate Profile---------------------
+Name: Suhani Kumari
+Registration Number: 12345
+Degree: B.Tech CSE
+Graduation Year: 2026
+Degree Percentage: 83.5
+Active Backlogs: 0
+Aptitude Correct Answers: 90
+Aptitude Total Questions: 100
+Coding Test Cases Passed: 13
+Coding Total Test Cases: 14
+Communication Score: 80
+Project Completed: true
+Profile Verified: true
+--------------------Exam details---------------------
+Aptitude Score: 90/100
+Aptitude Percentage: 90.0
+Coding Score: 13/14
+Coding Percentage: 92.85714285714286
+Communication Score: 80
+Project Completed: true
+Profile Verified: true
+Degree Eligible: Eligible
+Backlogs Eligible: Eligible
+Graduation Eligible: Eligible
+Aptitude Eligible: Eligible
+Coding Eligible: Eligible
+Communication Eligible: Eligible
+Project Eligible: Yes
+Profile Eligible: Yes
+Final Eligible: Eligible
+---------------------Application Status---------------------
+Status: Eligible to Apply
+Next Action: Submit the company application
+
